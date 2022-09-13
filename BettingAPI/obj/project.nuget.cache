@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OKWPG0KY/H0iDx7UzV0Mwt/qLA+mwXgVWDpZsBwKyF88POsXY3DlGRq9+L5UYV5pvtQWyb6SkCf9Gsj8wbxriA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vitor.guimaraes.GRUPOLTM\\Desktop\\Betting\\BettingAPI\\BettingAPI\\BettingAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor.guimaraes.GRUPOLTM\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\vitor.guimaraes.GRUPOLTM\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vitor.guimaraes.GRUPOLTM\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\vitor.guimaraes.GRUPOLTM\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\vitor.guimaraes.GRUPOLTM\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\vitor.guimaraes.GRUPOLTM\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\vitor.guimaraes.GRUPOLTM\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

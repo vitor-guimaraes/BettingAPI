@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vitor.guimaraes.GRUPOLTM\\Desktop\\Betting\\BettingAPI\\BettingAPI\\BettingAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vitor.guimaraes.GRUPOLTM\\Desktop\\Betting\\BettingAPI\\BettingAPI\\BettingAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vitor.guimaraes.GRUPOLTM\\Desktop\\Betting\\BettingAPI\\BettingAPI\\BettingAPI.csproj",
+        "projectName": "BettingAPI",
+        "projectPath": "C:\\Users\\vitor.guimaraes.GRUPOLTM\\Desktop\\Betting\\BettingAPI\\BettingAPI\\BettingAPI.csproj",
+        "packagesPath": "C:\\Users\\vitor.guimaraes.GRUPOLTM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor.guimaraes.GRUPOLTM\\Desktop\\Betting\\BettingAPI\\BettingAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vitor.guimaraes.GRUPOLTM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://grupoltm.pkgs.visualstudio.com/e1a66725-8208-4dbd-b855-e2c1261003fb/_packaging/Vertem-Admin/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

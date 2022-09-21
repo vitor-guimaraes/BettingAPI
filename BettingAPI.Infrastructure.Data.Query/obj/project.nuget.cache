@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fko4zkfMR5x2SG0yS5fFVZwJVFXWrY4F7a8+HO5AYs04dF9h1a0KakD6W+eLrllqAqYrbRnZhlJekdqPTAgpNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vitor.guimaraes.GRUPOLTM\\Desktop\\Betting\\BettingAPI\\BettingAPI.Infrastructure.Data.Query\\BettingAPI.Infrastructure.Data.Query.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor.guimaraes.GRUPOLTM\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

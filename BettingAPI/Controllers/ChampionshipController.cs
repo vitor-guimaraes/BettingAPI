@@ -1,4 +1,5 @@
-﻿using BettingAPI.Models;
+﻿using BettingAPI.Infrastructure.Data.Query.Championship;
+using BettingAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -14,10 +15,19 @@ namespace BettingAPI.Controllers
     public class ChampionshipController : ControllerBase
     {
         // GET api/<ChampionshipController>/5
-        [HttpGet("{championships}")]
-        public IEnumerable<Championships> Get()
+        [HttpGet] 
+        public async Task<IActionResult> GetChampionshipAsync()
         {
-            return null;
+            List<GetChampionshipQueryResponse> ChampionshipList = new List<GetChampionshipQueryResponse>();
+            await GetChampionshipAsync();
+
+            return Ok();
+        }
+
+        [HttpGet("{id}")]
+        public Championships GetById()
+        {
+            return new Championships();
         }
 
         // POST api/<ChampionshipController>
